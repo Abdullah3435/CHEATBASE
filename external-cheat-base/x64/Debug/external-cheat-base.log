@@ -1,0 +1,14 @@
+﻿  Aimbot.cpp
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(5,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(23,21): warning C4305: 'initializing': truncation from '__int64' to 'float'
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(83,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(83,26): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(84,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\cheats\Aimbot.cpp(84,27): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+  main.cpp
+  memory.cpp
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\memory\memory.cpp(18,51): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\external-cheat-base\memory\memory.cpp(30,77): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  renderer.cpp
+  Generating Code...
+  external-cheat-base.vcxproj -> D:\Reverse Engineering\CS2Tools\MyBase2\external-cheat-base-master\x64\Debug\external-cheat-base.exe
